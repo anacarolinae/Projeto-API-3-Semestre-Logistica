@@ -31,7 +31,7 @@ A aprendizagem por projeto integrador, adota a metodologia ágil SCRUM para prom
 </span>
 
 
-## PROJETO (Fluxo Log)
+## PROJETO 
 
   Nosso projeto tem como finalidade (problema). Através de uma abordagem estruturada, o trabalho foi dividido em (numero) sprints, nas quais foram realizadas (resultados). O objetivo final é (objetivo).
 
