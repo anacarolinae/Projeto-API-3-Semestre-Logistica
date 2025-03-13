@@ -25,7 +25,7 @@ A aprendizagem por projeto integrador, adota a metodologia ágil SCRUM para prom
 ## EMPRESA
 
 <p align="center">
-  <img src="logo"/>
+  <img src="https://github.com/anacarolinae/Projeto-API-3-Semestre-Logistica/blob/main/Imagens/Logo%20Fluxo%20Log.png"/>
 
 </p>
 </span>
