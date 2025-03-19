@@ -94,14 +94,6 @@ Sprint | Previsão | Status| Histórico|
 |04| 24/06/2025|a fazer |[MVP](https://)  | 
 |Feira de Soluções|29/06/2025 |a fazer |[MVP](https://) | 
 
-## EMPRESA
-
-<p align="center">
-  <img src="https://github.com/anacarolinae/Projeto-API-3-Semestre-Logistica/blob/main/Imagens/Logo%20Fluxo%20Log.png"/>
-
-</p>
-</span>
-
 ## COMPETÊNCIAS DESENVOLVIDAS
 
  ### Hard Skill (saber tecnológico)
@@ -133,3 +125,9 @@ Sprint | Previsão | Status| Histórico|
 
 
 </details>
+
+<p align="center">
+  <img src="https://github.com/anacarolinae/Projeto-API-3-Semestre-Logistica/blob/main/Imagens/Logo%20Fluxo%20Log.png"/>
+
+</p>
+</span>
