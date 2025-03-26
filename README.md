@@ -31,15 +31,10 @@ Para o consultor (texto).
 A Metodologia Ágil utilizado no produto foi o Scrum, um método ágil adaptativo, iterativo, flexível e eficaz. Entre as ferramentas utilizadas no Scrum, uma é a divisão do projeto em **Sprints**. Para selecionar quais seriam as entregas das nossas Sprints, primeiro definimos nosso **MVP**, priorizando as tarefas que trariam maior entrega de valor para o cliente. Então, a partir das Tarefas foi construído o **Backlog do Produto**,  o qual foi aprovado pelo cliente e dividido em 4 Backlog de Sprint.
 
 Dessa forma, com as Tarefas já traçadas, definimos a quantidade de tempo necessário para cada Tarefa, sendo dividido, de maneira mais otimizada, entre os Desenvolvedores do time.
+
 <br>
-</br>
 
-# OBJETIVO DO PROJETO
-
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-
-# TECNOLOGIA UTILIZADAS
+# Tecnologias Utilizadas 🚀
 
  ### Tecnologias Específicas/Apoio
  > Liste aqui todas as tecnologias utilizadas para concluir a entrega
@@ -47,7 +42,22 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
  ### Tecnologias da Informação
  > Liste aqui todas as tecnologias utilizadas para concluir a entrega
 
-## Backlog do Produto
+<br>
+
+## Sprints 📅
+
+Sprint 🎯 | Previsão | Status|
+|------|--------|------|
+|Kick Off | 11/03/2025 | Concluído ✅|
+|1️⃣| 01/04/2025| a fazer|
+|2️⃣| 22/04/2025| a fazer|
+|3️⃣| 13/05/2025| a fazer|
+|4️⃣| 24/06/2025|a fazer |
+|Feira de Soluções|29/06/2025 |a fazer |
+
+<br>
+
+## Backlog do Produto 📋
 
 | Rank  | Prioridade | User Story | Estimativa  | Sprint | 
 |:-----:|:----------:|:----------:|:-----------:|:------:|
@@ -65,20 +75,9 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 |  12   |            |Como consultor, quero revisar a qualidade dos dados com base nos minis relatórios gerados anteriormente, para que eu possa identificar áreas críticas e garantir que os dados usados nas análises sejam precisos e confiáveis.|             |   3    |
 |  13   |            |Como consultor, quero gerar um relatório completo sobre os dados analisados, demonstrando os procedimentos, erros e pontos de melhoria, para que a equipe e o cliente possam visualizar o impacto das ações tomadas e projetar as melhorias para 2025.            |             |   4    |
 
-## 📅Sprints 
+<br>
 
-Sprint 🎯 | Previsão | Status| Histórico
-|------|--------|------|--------|
-|Kick Off | 11/03/2025 | Concluído|[MVP](https://) |
-|01| 01/04/2025| a fazer| [MVP](https://) | 
-|02| 22/04/2025| a fazer|[MVP](https://) | 
-|03| 13/05/2025| a fazer|[MVP](https://) | 
-|04| 24/06/2025|a fazer |[MVP](https://)  | 
-|Feira de Soluções|29/06/2025 |a fazer |[MVP](https://) | 
-
-</details>
-
-# EQUIPE
+## Equipe 👨‍💻
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |  ìtalo    |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/italo-victor-287b25265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()       |
@@ -89,33 +88,3 @@ Sprint 🎯 | Previsão | Status| Histórico
 |  Team Member  | Wilson     |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()          |
 
 </details>
-
-## COMPETÊNCIAS DESENVOLVIDAS
-
- ### Hard Skill (saber tecnológico)
-<details>
-<summary>Hard Skills desenvolvidas</summary>
-  
-| Tecnologia/Metodologia | Classificação |
-| ---------------------- | ------------- |
-| GitHub | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆  |
-| Gestão de Projetos |☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Scrum Master | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆  |
-| Prodct Owner | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆  |
- 
- ### Soft Skill (saber comportamental)
-<details>
-<summary>Soft Skills desenvolvidas</summary>
-
-| Habilidades | Classificação |
-| ---------------------- | ------------- |
-| Colaboração | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆  |
-| Proatividade| ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆  |
-| Pensamento Crítico | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆  |
-| Gerenciamento de Tempo | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆  |
-| Adaptabilidade | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆  |
-| Resiliência | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆  |
-
-
-</details>
-
