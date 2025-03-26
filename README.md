@@ -1,6 +1,6 @@
 # **Fluxo Log**
 <p align="center">
-  <img src=""/>
+  <img src="https://github.com/anacarolinae/Projeto-API-3-Semestre-Logistica/blob/main/Imagens/Logo%20Fluxo%20Log.png"/>
 
 <br>
 <p align="center">
