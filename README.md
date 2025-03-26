@@ -14,19 +14,19 @@
 </p>
 </br>
 
-## 📌Objetivo do Projeto
+## Objetivo do Projeto 📌
 O produto tem como objetivo (texto). 
 > **Status do Projeto: Em andamento**
 
 <br> 
   
-## 💡Visão do Produto
+## Visão do Produto 💡
 
 Para o consultor (texto).
 
 <br>
 
-## 📚Metodologia
+## Metodologia 📚
 
 A Metodologia Ágil utilizado no produto foi o Scrum, um método ágil adaptativo, iterativo, flexível e eficaz. Entre as ferramentas utilizadas no Scrum, uma é a divisão do projeto em **Sprints**. Para selecionar quais seriam as entregas das nossas Sprints, primeiro definimos nosso **MVP**, priorizando as tarefas que trariam maior entrega de valor para o cliente. Então, a partir das Tarefas foi construído o **Backlog do Produto**,  o qual foi aprovado pelo cliente e dividido em 4 Backlog de Sprint.
 
@@ -34,7 +34,7 @@ Dessa forma, com as Tarefas já traçadas, definimos a quantidade de tempo neces
 
 <br>
 
-# Tecnologias Utilizadas 🚀
+## Tecnologias Utilizadas 🚀
 
  ### Tecnologias Específicas/Apoio
  > Liste aqui todas as tecnologias utilizadas para concluir a entrega
