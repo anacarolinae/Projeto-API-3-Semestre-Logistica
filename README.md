@@ -39,10 +39,15 @@ Com as tarefas já estruturadas, estimamos o tempo necessário para sua execuç�
 ## Tecnologias Utilizadas 🚀
 
 > Slack
+
 > Power BI
+
 > Excel
+
 > GitHub
+
 > Jira Software
+
 > Power Point
 
 <br>
