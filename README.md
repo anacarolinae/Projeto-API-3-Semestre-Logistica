@@ -10,7 +10,7 @@
   <a href ="#mvp"> MVP </a>  |
   <a href ="#sprints"> Sprints </a>  |
   <a href ="#backlog-do-produto"> Backlog do Produto </a>  | 
-  <a href ="#autores"> Autores </a>  |
+  <a href ="#equipe"> Equipe </a>  |
 </p>
 </br>
 
