@@ -16,7 +16,21 @@
 </br>
 
 ## Objetivo do Projeto 📌
-O produto tem como objetivo (texto). 
+
+Este projeto tem como objetivo **analisar e otimizar os custos logísticos** da empresa por meio da **modelagem e estruturação de dados** das operações realizadas em 2023.  
+
+Utilizando ferramentas como **SQL** para construção de um banco de dados e **Business Intelligence (BI)** para comparação de cenários, busca-se identificar **oportunidades de redução de custos e eficiência operacional**.  
+
+Além disso, será desenvolvido um **modelo de otimização baseado em Pesquisa Operacional** para avaliar se os custos logísticos poderiam ter sido minimizados e qual o impacto dessa otimização na projeção de custos para 2025.  
+
+### Principais Análises 🔍 
+✅ **Qualidade dos dados** das operações logísticas  
+✅ **Capacidade média mensal** dos caminhões utilizados  
+✅ **Impacto financeiro das rotas utilizadas** (FOB)  
+✅ **Comparação entre cenário real e otimizado**  
+
+O projeto visa fornecer uma **base sólida para a tomada de decisões estratégicas**, permitindo que a empresa **reduza custos e aumente a eficiência logística**.  
+
 > **Status do Projeto: Em andamento**
 
 <br> 
