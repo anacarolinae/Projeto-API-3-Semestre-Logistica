@@ -37,15 +37,19 @@ O projeto visa fornecer uma **base sólida para a tomada de decisões estratégi
   
 ## Visão do Produto 💡
 
-Para o consultor (texto).
+Como **consultor de otimização logística**, quero **analisar e otimizar os custos logísticos da empresa** utilizando dados de 2023, para que possamos **identificar oportunidades de redução de custos**, aumentar a **eficiência operacional** e oferecer uma **projeção mais precisa de custos para 2025**.
+
+Como **analista de dados**, quero **estruturar e modelar os dados das operações logísticas** com ferramentas como **SQL e Business Intelligence (BI)**, para que possamos **comparar cenários reais e otimizados**, assegurando que as decisões estratégicas da empresa sejam baseadas em informações confiáveis e insights precisos.
+
+Como **responsável pela otimização de processos**, quero **desenvolver um modelo de otimização baseado em Pesquisa Operacional**, para que possamos **minimizar os custos logísticos** e **maximizar a eficiência na escolha de rotas e utilização da frota**, visando a melhoria contínua nas operações logísticas da empresa.
 
 <br>
 
 ## Metodologia 📚
 
-No desenvolvimento do produto, utilizamos a metodologia ágil Scrum. Um dos principais aspectos dessa abordagem é a organização do trabalho em Sprints.
+No desenvolvimento do produto, utilizamos a **metodologia ágil Scrum**. Um dos principais aspectos dessa abordagem é a organização do trabalho em **Sprints**.
 
-Para definir as entregas de cada Sprint, começamos pela definição do MVP (Produto Mínimo Viável), priorizando as atividades que gerariam mais valor para o cliente. A partir dessas tarefas, elaboramos o Backlog do Produto, que, após aprovação do cliente, foi dividido em quatro Backlogs de Sprint.
+Para definir as entregas de cada Sprint, começamos pela definição do **MVP** (Produto Mínimo Viável), priorizando as atividades que gerariam mais valor para o cliente. A partir dessas tarefas, elaboramos o Backlog do Produto, que, após aprovação do cliente, foi dividido em quatro **Backlogs de Sprint**.
 
 Com as tarefas já estruturadas, estimamos o tempo necessário para sua execução e distribuímos as atividades de maneira otimizada entre os desenvolvedores, garantindo maior eficiência no desenvolvimento.
 
