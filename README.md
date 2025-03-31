@@ -11,7 +11,7 @@
   <a href ="tecnologias-utilizadas"> Tecnologias Utilizadas </a>  |
   <a href ="#sprints"> Sprints </a>  |
   <a href ="#backlog-do-produto"> Backlog do Produto </a>  | 
-  <a href ="#equipe"> Equipe </a>  |
+  <a href ="#equipe"> Equipe </a> </a> |
 </p>
 </br>
 
