@@ -76,7 +76,7 @@ Com as tarefas já estruturadas, estimamos o tempo necessário para sua execuç�
 Sprint 🎯 | Previsão | Status|
 |------|--------|------|
 |Kick Off | 11/03/2025 | Concluído ✅|
-|1️⃣| 01/04/2025| a fazer|
+|1️⃣| 08/04/2025| a fazer|
 |2️⃣| 22/04/2025| a fazer|
 |3️⃣| 13/05/2025| a fazer|
 |4️⃣| 24/06/2025|a fazer |
