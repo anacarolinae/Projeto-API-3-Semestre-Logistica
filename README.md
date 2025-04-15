@@ -120,3 +120,15 @@ O MVP deste projeto consiste na criação de visualizações e dashboards intera
 |  Team Member  | Wilson     |            |
 
 </details>
+
+
+
+
+
+
+
+*GitHub:* https://github.com/anacarolinae/Projeto-API-3-Semestre-Logistica  
+
+*Jira Software:* https://fluxolog.atlassian.net/jira/software/projects/FLOG/boards/1/backlog?assignee=unassigned&atlOrigin=eyJpIjoiMDMzZGEyOTY5MWRlNGNjNGE3MzNlMjAzYjJlNjc3MzUiLCJwIjoiaiJ9  
+
+*Apresentação:* https://www.canva.com/design/DAGjWsnsanU/uCoxj_RGpXBiy81LLipexQ/edit?utm_content=DAGjWsnsanU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
