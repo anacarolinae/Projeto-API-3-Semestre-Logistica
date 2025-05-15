@@ -1,6 +1,6 @@
 # **Fluxo Log**
 <p align="center">
-  <img src="https://github.com/anacarolinae/LASJK/blob/main/Logo%20LASJK.png"/>
+  <img src="https://github.com/anacarolinae/Projeto-API-3-Semestre-Logistica/blob/main/Imagens/Logo.png" width="500">
   
 <br>
 <p align="center">
