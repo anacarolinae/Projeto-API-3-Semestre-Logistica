@@ -125,8 +125,8 @@ Sprint 🎯 | Previsão | Status|
       
 ### Sprint 3 🎯
 - [ ] Análise das rotas, com geração de mapa de rotas e vendo relação Valor X Distância;
-- [ ] Análise dos custos totais em cada processo, com demostração de como reduzi-los;
-- [ ] Análise da rojeção de melhoria no período 2023 X 2025;
+- [ ] Análise dos custos totais em cada processo, com demonstração de como reduzi-los;
+- [ ] Análise da projeção de melhoria no período 2023 X 2025;
 - [ ] Análise de qualidade de dados;
 - [ ] Relatório técnico da Sprint 3;
       
