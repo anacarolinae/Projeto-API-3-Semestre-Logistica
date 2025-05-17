@@ -150,4 +150,30 @@ O MVP deste projeto consiste na criação de visualizações e dashboards intera
 |  Team Member  | Yasmin     |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yasmin-fraz%C3%A3o-096a53300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()          |
 |  Team Member  | Wilson     |            |
 
+<br>
+
+## O que se espera ao final da API 🎯
+
+### Competências desenvolvidas ✅ 
+
+- **Custos Logísticos** 📦   
+  Demonstrar conhecimento dos conceitos de custos logísticos
+
+- **Produtividade Aplicada** ⚙️ 
+  Aplicar conhecimento de produtividade em contexto real
+
+- **Modelagem de Problemas** 📊  
+  Desenvolver modelagem para problemas de otimização
+
+- **Programação com Python/ Solver** 💻
+  Aplicar linguagem da programação (Python) para resolver problemas de otimização
+
+- **Tecnologias de Dados** 🧠  
+  Saber usar (com ajuda ou autonomia) as tecnologias para:
+  - Capturar  
+  - Tratar  
+  - Organizar  
+  - Armazenar  
+  - Apresentar dados e suas características
+
 </details>
