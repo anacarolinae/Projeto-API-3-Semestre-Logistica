@@ -93,14 +93,43 @@ Sprint 🎯 | Previsão | Status|
 |   3   |     Média       |Como consultor, quero analisar os erros em relação a incoterms e datas na base de dados, utilizando Power BI para visualizações, para que eu possa apresentar os resultados de maneira clara e gerar minis relatórios para cada tarefa concluída.|      8       |    1   |
 |   4   |      Baixa      |Como consultor, quero identificar os meses com maior incidência de erros e exibir essa informação em um gráfico de barras, para que eu possa facilmente visualizar e identificar padrões ao longo do tempo.|      5       |   1    |
 |   5   |      Média      |Como consultor, quero comparar os dados com erros e os dados corrigidos, demonstrando os custos adicionais causados por erros na base de dados, para que o cliente compreenda o impacto financeiro das inconsistências nos dados, com visualizações claras em cartões de valores e gráficos.|      3       |    1   |
-|   6   |      Média      |Como consultor, quero analisar as rotas de transporte, gerando um mapa e comparando o valor com a distância, para que eu possa entender as variáveis que impactam os custos e otimizar as rotas.|      8       |   2    |
-|   7   |      Alta      |Como consultor, quero calcular o LEAD TIME, focando na média de tempo do processo completo, para que eu possa identificar oportunidades para otimizar e melhorar a eficiência do processo, exibindo resultados em gráficos e cartões de valor.|       13      |   2    |
-|   8   |      Média      |Como consultor, quero analisar as possibilidades de consolidação de cargas, para que eu possa sugerir alternativas para reduzir custos de transporte.|       13      |   2    |
-|   9   |      Média      |Como consultor, quero analisar a capacidade total e utilizada dos caminhões, buscando substituições adequadas entre os veículos, para que eu possa otimizar o uso da frota e melhorar a alocação de recursos, demonstrando os resultados em gráficos.|      5       |   2    |
+|   6   |      Alta      |Como consultor, quero calcular o LEAD TIME, focando na média de tempo do processo completo, para que eu possa identificar oportunidades para otimizar e melhorar a eficiência do processo, exibindo resultados em gráficos e cartões de valor.|       13      |   2    |
+|   7   |      Média      |Como consultor, quero analisar as possibilidades de clusterizar de cargas, para que eu possa sugerir alternativas para reduzir custos de transporte.|       13      |   2    |
+|   8   |      Média      |Como consultor, quero analisar a capacidade total e utilizada dos caminhões, buscando substituições adequadas entre os veículos, para que eu possa otimizar o uso da frota e melhorar a alocação de recursos, demonstrando os resultados em gráficos.|      5       |   2    |
+|   9   |      Média      |Como consultor, quero analisar as rotas de transporte, gerando um mapa e comparando o valor com a distância, para que eu possa entender as variáveis que impactam os custos e otimizar as rotas.|      8       |   3    |
 |  10   |      Alta      |Como consultor, quero analisar os custos totais em cada processo e sugerir formas de reduzi-los, para que eu possa ajudar a empresa a reduzir despesas e gerar projeções de melhoria para o período 2023-2025, visualizando as informações em gráficos comparativos.|      13       |   3    |
 |  11   |     Alta       |Como consultor, quero realizar a análise de projeção de custos e performance para 2023-2025, utilizando Power BI para visualizar os dados, para que eu possa fornecer insights claros sobre os futuros cenários e apoiar o planejamento estratégico.|       8      |    3   |
 |  12   |      Baixa      |Como consultor, quero revisar a qualidade dos dados com base nos relatórios gerados anteriormente, para que eu possa identificar áreas críticas e garantir que os dados usados nas análises sejam precisos e confiáveis.|       5      |   3    |
 |  13   |      Alta      |Como consultor, quero gerar um relatório completo sobre os dados analisados, demonstrando os procedimentos, erros e pontos de melhoria, para que a equipe e o cliente possam visualizar o impacto das ações tomadas e projetar as melhorias para 2025.            |      20       |   4    |
+
+<br>
+
+## Sprint 1 🎯
+- [x] Estruturação do GitHub;
+- [x] Backlog do Produto;
+- [x] Análise dos dados enviados pelo cliente, com buscas iniciais por erros na base de dados;
+- [x] Análise dos erros em relação a incoterm (FOB e CIF) e datas (Entrega, Pedido, Emissão) na base de dados;
+- [x] Análise dos meses com mais indidência e erros;
+- [x] Comparação entre os dados com "erro" e os dados "corretos";
+- [x] Desenvolver um deshboard;
+- [x] Relatório técnico da Sprint 1;
+
+## Sprint 2 🎯
+- [x] Análise do Lead Time
+- [x] Análise de possíveis clusterização de carga no processo;
+- [x] Análise dos tipos de caminhões, capacidade total X capacidade usada;
+- [x] Desenvolver um deshboard;
+
+      
+## Sprint 3 🎯
+- [ ] Análise das rotas, com geração de mapa de rotas e vendo relação Valor X Distância;
+- [ ] Análise dos custos totais em cada processo, com demostração de como reduzi-los;
+- [ ] Análise da rojeção de melhoria no período 2023 X 2025;
+- [ ] Análise de qualidade de dados;
+- [ ] Relatório técnico da Sprint 3;
+      
+## Sprint 4 🎯
+- [ ] Relatório técnico da Sprint 4;
 
 <br>
 
