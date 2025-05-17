@@ -156,24 +156,24 @@ O MVP deste projeto consiste na criação de visualizações e dashboards intera
 
 ### Competências desenvolvidas ✅ 
 
-- **Custos Logísticos** 📦   
-Demonstrar conhecimento dos conceitos de custos logísticos
+**Custos Logísticos** 📦
+- Demonstrar conhecimento dos conceitos de custos logísticos
 
-- **Produtividade Aplicada** ⚙️
-Aplicar conhecimento de produtividade em contexto real
+**Produtividade Aplicada** ⚙️
+- Aplicar conhecimento de produtividade em contexto real
 
-- **Modelagem de Problemas** 📊  
-Desenvolver modelagem para problemas de otimização
+**Modelagem de Problemas** 📊
+- Desenvolver modelagem para problemas de otimização
 
-- **Programação com Python/ Solver** 💻
-Aplicar linguagem da programação (Python) para resolver problemas de otimização
+**Programação com Python/ Solver** 💻
+- Aplicar linguagem da programação (Python) para resolver problemas de otimização
 
-- **Tecnologias de Dados** 🧠  
-Saber usar (com ajuda ou autonomia) as tecnologias para:
-- Capturar
-- Tratar  
-- Organizar  
-- Armazenar
-- Apresentar dados e suas características
+**Tecnologias de Dados** 🧠
+- Saber usar (com ajuda ou autonomia) as tecnologias para:
+  - Capturar
+  - Tratar  
+  - Organizar  
+  - Armazenar
+  - Apresentar dados e suas características
 
 </details>
