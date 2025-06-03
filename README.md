@@ -127,8 +127,7 @@ Sprint 🎯 | Previsão | Status|
 ### Sprint 3 🎯
 - [ ] Análise das rotas, com geração de mapa de rotas e vendo relação Valor X Distância;
 - [ ] Análise dos custos totais em cada processo, com demonstração de como reduzi-los;
-- [ ] Modelagem da Função objetiva e custos (Z), utilizando bloco de notas;
-- [ ] Aplicação da modelagem (Z) no solver Excel;
+- [ ] Modelagem da Função objetiva e custos (Z), utilizando bloco de notas, aplicação da modelagem (Z) no solver Excel;
 - [ ] Análise de qualidade de dados;
       
 ### Sprint 4 🎯
