@@ -98,9 +98,10 @@ Sprint 🎯 | Previsão | Status|
 |   8   |      Média      |Como consultor, quero analisar a capacidade total e utilizada dos caminhões, buscando substituições adequadas entre os veículos, para que eu possa otimizar o uso da frota e melhorar a alocação de recursos, demonstrando os resultados em gráficos.|      5       |   2    |
 |   9   |      Média      |Como consultor, quero analisar as rotas de transporte, gerando um mapa e comparando o valor com a distância, para que eu possa entender as variáveis que impactam os custos e otimizar as rotas.|      8       |   3    |
 |  10   |      Alta      |Como consultor, quero analisar os custos totais em cada processo e sugerir formas de reduzi-los, para que eu possa ajudar a empresa a reduzir despesas e gerar projeções de melhoria para o período 2023-2025, visualizando as informações em gráficos comparativos.|      13       |   3    |
-|  11   |     Alta       |Como consultor, quero realizar a análise de projeção de custos e performance para 2023-2025, utilizando Power BI para visualizar os dados, para que eu possa fornecer insights claros sobre os futuros cenários e apoiar o planejamento estratégico.|       8      |    3   |
-|  12   |      Baixa      |Como consultor, quero revisar a qualidade dos dados com base nos relatórios gerados anteriormente, para que eu possa identificar áreas críticas e garantir que os dados usados nas análises sejam precisos e confiáveis.|       5      |   3    |
-|  13   |      Alta      |Como consultor, quero gerar um relatório completo sobre os dados analisados, demonstrando os procedimentos, erros e pontos de melhoria, para que a equipe e o cliente possam visualizar o impacto das ações tomadas e projetar as melhorias para 2025.            |      20       |   4    |
+|  11   |      Baixa      |Como consultor, quero revisar a qualidade dos dados com base nos relatórios gerados anteriormente, para que eu possa identificar áreas críticas e garantir que os dados usados nas análises sejam precisos e confiáveis.|       5      |   3    |
+|  12   |     Alta      |Como consultor, Quero modelar a função objetiva (Z) e os custos utilizando bloco de notas, para que eu possa estruturar claramente o problema antes de aplicá-lo no Solver do Excel e encontrar a solução ótima.|       8      |   3    |
+|  13   |     Alta       |Como consultor, quero realizar a análise de projeção de custos e performance para 2023-2025, utilizando Power BI para visualizar os dados, para que eu possa fornecer insights claros sobre os futuros cenários e apoiar o planejamento estratégico.|       8      |    4   |
+|  14   |      Alta      |Como consultor, quero gerar um relatório completo sobre os dados analisados, demonstrando os procedimentos, erros e pontos de melhoria, para que a equipe e o cliente possam visualizar o impacto das ações tomadas e projetar as melhorias para 2025.            |      20       |   4    |
 
 <br>
 
@@ -126,11 +127,12 @@ Sprint 🎯 | Previsão | Status|
 ### Sprint 3 🎯
 - [ ] Análise das rotas, com geração de mapa de rotas e vendo relação Valor X Distância;
 - [ ] Análise dos custos totais em cada processo, com demonstração de como reduzi-los;
-- [ ] Análise da projeção de melhoria no período 2023 X 2025;
+- [ ] Modelagem da Função objetiva e custos (Z), utilizando bloco de notas;
+- [ ] Aplicação da modelagem (Z) no solver Excel;
 - [ ] Análise de qualidade de dados;
-- [ ] Relatório técnico da Sprint 3;
       
 ### Sprint 4 🎯
+- [ ] Análise da projeção de melhoria no período 2023 X 2025;
 - [ ] Relatório técnico da Sprint 4;
 
 <br>
