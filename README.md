@@ -138,6 +138,10 @@ Sprint 🎯 | Previsão | Status|
 ## MVP 📊
 O MVP deste projeto consiste na criação de visualizações e dashboards interativos no Power BI, apresentados em vídeo para facilitar a análise e interpretação dos dados.
 
+3° Sprint [Click Aqui](https://www.youtube.com/watch?v=OWLlqh_HP3Q)
+
+[![Título do vídeo](https://img.youtube.com/vi/OWLlqh_HP3Q/0.jpg)](https://www.youtube.com/watch?v=OWLlqh_HP3Q)
+
 <br>
 
 ## Equipe 👨‍💻
