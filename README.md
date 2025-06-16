@@ -78,7 +78,7 @@ Sprint 🎯 | Previsão | Status|
 |Kick Off | 11/03/2025 | Concluído ✅|
 |1️⃣| 08/04/2025| Concluído ✅|
 |2️⃣| 13/05/2025| Concluído ✅|
-|3️⃣| 03/06/2025| a fazer|
+|3️⃣| 03/06/2025| Concluído ✅|
 |4️⃣| 24/06/2025|a fazer |
 |Feira de Soluções|29/06/2025 |a fazer |
 
