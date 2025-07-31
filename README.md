@@ -65,8 +65,6 @@ Com as tarefas já estruturadas, estimamos o tempo necessário para sua execuç�
 
 > GitHub
 
-> Jira Software
-
 > Power Point
 
 <br>
@@ -79,8 +77,7 @@ Sprint 🎯 | Previsão | Status|
 |1️⃣| 08/04/2025| Concluído ✅|
 |2️⃣| 13/05/2025| Concluído ✅|
 |3️⃣| 03/06/2025| Concluído ✅|
-|4️⃣| 24/06/2025|a fazer |
-|Feira de Soluções|29/06/2025 |a fazer |
+|Feira de Soluções|29/06/2025 |Concluído ✅|
 
 <br>
 
@@ -100,8 +97,6 @@ Sprint 🎯 | Previsão | Status|
 |  10   |      Alta      |Como consultor, quero analisar os custos totais em cada processo e sugerir formas de reduzi-los, para que eu possa ajudar a empresa a reduzir despesas.|      13       |   3    |
 |  11   |      Baixa      |Como consultor, quero revisar a qualidade dos dados com base nos relatórios gerados anteriormente, para que eu possa identificar áreas críticas e garantir que os dados usados nas análises sejam precisos e confiáveis.|       5      |   3    |
 |  12   |     Alta      |Como consultor, quero modelar a função objetiva (Z) e os custos utilizando bloco de notas, para que eu possa estruturar claramente o problema antes de aplicá-lo no Solver do Excel e encontrar a solução ótima.|       8      |   3    |
-|  13   |     Alta       |Como consultor, quero realizar a análise de projeção de custos e performance para 2023-2025, utilizando Power BI para visualizar os dados, para que eu possa fornecer insights claros sobre os futuros cenários e apoiar o planejamento estratégico.|       8      |    4   |
-|  14   |      Alta      |Como consultor, quero gerar um relatório completo sobre os dados analisados, demonstrando os procedimentos, erros e pontos de melhoria, para que a equipe e o cliente possam visualizar o impacto das ações tomadas e projetar as melhorias para 2025.            |      20       |   4    |
 
 <br>
 
@@ -130,10 +125,6 @@ Sprint 🎯 | Previsão | Status|
 - [x] Modelagem da Função objetiva e custos (Z), utilizando bloco de notas, aplicação da modelagem (Z) no solver Excel;
 - [x] Análise de qualidade de dados;
       
-### Sprint 4 🎯
-- [ ] Análise da projeção de melhoria no período 2023 X 2025;
-- [ ] Relatório técnico da Sprint 4;
-
 <br>
 
 ## MVP 📊
